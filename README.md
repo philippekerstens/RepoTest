@@ -1,2 +1,2 @@
 # RepoTest
-Testing that I unerstand the material correctly
+Testing that I understand the material correctly
